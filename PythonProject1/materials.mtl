@@ -1,0 +1,5 @@
+newmtl Material1
+Kd 1.0 0.0 0.0
+
+newmtl Material2
+Kd 0.0 1.0 0.0
